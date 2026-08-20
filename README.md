@@ -1,7 +1,7 @@
-<H3>ENTER YOUR NAME:RAMESH RENUKA</H3>
-<H3>ENTER YOUR REGISTER NO: 212223240136</H3>
+<H3>ENTER YOUR NAME: RAMESH RENUKA</H3>
+<H3>ENTER YOUR REGISTER NO. 212223240136</H3>
 <H3>EX. NO.3</H3>
-<H3>DATE:20.08.2026</H3>
+<H3>DATE: 20-08-2026</H3>
 <H2 aligh = center> Implementation of MLP for a non-linearly separable data</H2>
 <h3>Aim:</h3>
 To implement a perceptron for classification using Python
@@ -36,6 +36,7 @@ Step 3: Repeat the  iteration  until the losses become constant and  minimum<BR>
 Step 4 : Test for the XOR patterns.
 
 <H3>Program:</H3>
+
 ```
 import numpy as np 
 import pandas as pd 
@@ -109,10 +110,11 @@ test=np.array([[0],[0]])
 predict(w1,w2,test)   
 
 ```
-
 <H3>Output:</H3>
 
-<img width="759" height="591" alt="image" src="https://github.com/user-attachments/assets/35b3fad8-4982-418b-b463-e8f8e6a7c747" />
+<img width="759" height="591" alt="image" src="https://github.com/user-attachments/assets/01563c02-9fb1-4473-8e4d-f788c79e0d1d" />
+
+
 
 
 <H3> Result:</H3>
